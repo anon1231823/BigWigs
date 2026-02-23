@@ -932,7 +932,7 @@ L.glowAt_desc = "Elige cuantos segundos de enfriamiento deberian quedar cuando e
 L.offsetX = "Desplazamiento del eje X"
 L.offsetY = "Desplazamiento del eje Y"
 L.headerIconSizeTarget = "Tamaño de icono de tu objetivo actual"
-L.headerIconSizeOthers = "El tamaño del icono de los otros objetivos"
+L.headerIconSizeOthers = "Tamaño del icono de los otros objetivos"
 L.headerIconPositionTarget = "Posición del ícono de tu objetivo actual"
 L.headerIconPositionOthers = "Posición del ícono de de los demás objetivos"
 
