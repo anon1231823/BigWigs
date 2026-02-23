@@ -40,7 +40,7 @@ L.guildRelease = "Estás usando la versión de BigWigs %d hecha para tu hermanda
 L.getNewRelease = "Tu BigWigs está desfasado (/bwv) pero puedes actualizarlo fácilmente con el cliente de CurseForge. También puedes actualizarlo manualmente desde curseforge.com o addons.wago.io."
 L.warnTwoReleases = "Tu BigWigs está 2 versiones desfasado! Tu versión puede tener fallos, faltarle características, o temporizadores incorrectos. Es muy recomendable que lo actualices."
 L.warnSeveralReleases = "|cffff0000Tu BigWigs está desfasado %d actualizaciones!! Te recomendamos MUCHÍSIMO que lo actualices cuanto antes para prevenir problemas de sincronización con otros jugadores!|r"
-L.warnOldBase = "Estás usando una versión de hermandad de BigWigs (%d), pero tu versión de base (%d) está desfasada de %d actualizaciones. Ésto puede causar problemas."
+L.warnOldBase = "Estás usando una versión de hermandad de BigWigs (%d), pero tu versión de base (%d) está desfasada de %d actualizaciones. Esto puede causar problemas."
 
 L.tooltipHint = "|cffeda55fClic derecho|r para acceder a las opciones."
 L.activeBossModules = "Módulos de jefes activos:"
