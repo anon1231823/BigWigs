@@ -53,7 +53,7 @@ L.noBossMod = "Sin boss mod:"
 L.offline = "Desconectado"
 
 L.missingAddOnPopup = "¡No se encuentra el addon |cFF436EEE%s|r!"
-L.missingAddOnRaidWarning = "No se encuentra el addon |cFF436EEE%s|r ! No se mostrarán temporizadores en esta zona."
+L.missingAddOnRaidWarning = "¡No se encuentra el addon |cFF436EEE%s|r! No se mostrarán temporizadores en esta zona."
 L.outOfDateAddOnPopup = "El addon |cFF436EEE%s|r está desactualizado!"
 L.outOfDateAddOnRaidWarning = "El addon |cFF436EEE%s|r está desactualizado. Tienes v%d.%d.%d la última es v%d.%d.%d!"
 L.disabledAddOn = "Tienes el addon |cFF436EEE%s|r deshabilitado, los contadores no se mostrarán."
