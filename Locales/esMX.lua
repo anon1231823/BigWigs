@@ -344,6 +344,7 @@ L.tools = "Herramientas"
 L.toolsDesc = "BigWigs ofrece varias herramientas o características de \"calidad de vida\" para acelerar y simplificar el proceso de enfrentarte a los jefes."
 
 L.reloadUIWarning = "Cambiar esta función recargará tu interfaz, mostrando la pantalla de carga por un momento. ¿Estás seguro?"
+--L.qualityOfLife = "Quality of Life"
 
 -----------------------------------------------------------------------
 -- AutoRole.lua

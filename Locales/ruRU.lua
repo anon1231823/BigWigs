@@ -344,6 +344,7 @@ L.tools = "Инструменты"
 L.toolsDesc = "BigWigs предоставляет различные инструменты или \"упрощающие жизнь\" функции для ускорения и упрощения процесса убийства боссов."
 
 --L.reloadUIWarning = "Changing this feature will reload your UI, showing the loading screen for a moment. Are you sure?"
+--L.qualityOfLife = "Quality of Life"
 
 -----------------------------------------------------------------------
 -- AutoRole.lua
